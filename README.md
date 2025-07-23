@@ -1,17 +1,5 @@
 # music
 MusicPlaylist
-
-
-
-
-
-
-
-
-
-
-
-
 import React, { useState } from 'react';
 const MusicPlayer = () => {
   const [playlist, setPlaylist] = useState([]);
